@@ -4,6 +4,7 @@
 
 1. A partir del array [1, 2, 3, 4, 5] mostrar en la terminal la CANTIDAD de elementos
 
+
 2. A partir del array [2, 4, 6, 8, 10] escribir una función que devuelve la SUMATORIA de todos los elementos
 
 3. Hacer un programa para pedirle al usuario un número de mes (número del 1 hasta el 12) y mostrar por la terminal el nombre de dicho número de mes. Los pasos serían:
